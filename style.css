@@ -1,15 +1,9 @@
 h1 {
-    background-color: aqua;
-    color: black;
-    text-align: center;
-    border: 3px solid black;
+background-color: aqua;
+color: black;
+text-align: center;
+border: 3px solid black;
 }
-
-#heading-two {
-    background-color: purple;
-    text-align: end;
-}
-
 table {
     width: 700px;
     height: 100px;
