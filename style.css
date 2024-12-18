@@ -1,0 +1,23 @@
+h1 {
+    background-color: red;
+    color: black;
+    text-align: center;
+    border: 3px solid black;
+}
+
+#heading-two {
+    background-color: purple;
+    text-align: end;
+}
+
+table {
+    width: 700px;
+    height: 100px;
+}
+
+table,
+td,
+th {
+    border: 1px solid black;
+    text-align: center;
+}
